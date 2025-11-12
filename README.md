@@ -9,9 +9,9 @@ Apasionado por la tecnología, la innovación y el desarrollo de soluciones web 
 ## 💼 Experiencia
 
 - **Sector cobranzas y recuperación de carteras:**  
-  Especialista en el diseño y desarrollo de plataformas para la gestión y recuperación de carteras.  
+  Experiencia en el diseño y desarrollo de plataformas para la gestión y recuperación de carteras.  
 - **Análisis de datos:**  
-  Manejo avanzado de herramientas como **Pandas**, **Looker Studio** y **Google Cloud Platform** para la visualización, procesamiento y toma de decisiones basada en datos.
+  Manejo herramientas como **Pandas**, **Looker Studio** y **Google Cloud Platform** para la visualización, procesamiento y toma de decisiones basada en datos.
 - **Grandes volúmenes de datos:**  
   Experiencia en el tratamiento eficiente y seguro de información crítica.
 - **Arquitecturas modernas:**  
