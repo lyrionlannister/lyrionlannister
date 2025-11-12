@@ -1,5 +1,3 @@
-# 👋 ¡Hola! Soy **Luis Guzmán**
-
 ### 🚀 Desarrollador Full Stack & Técnico Auxiliar en Sistemas
 
 Apasionado por la tecnología, la innovación y el desarrollo de soluciones web modernas. Experiencia en proyectos de alto impacto, trabajando con grandes volúmenes de datos y arquitecturas escalables.
