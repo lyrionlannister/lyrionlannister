@@ -13,11 +13,11 @@ Construyo aplicaciones web de punta a punta con **C#, Python y TypeScript**: API
 
 | Proyecto | Qué es | Stack |
 | --- | --- | --- |
-| **Pybox** *(privado)* | Plataforma SaaS multi-tenant de cartera y cobranza: créditos, deudores, campañas por email/SMS/WhatsApp/IVR, pagos (Mercado Pago, Bold) y facturación, con MFA y aislamiento por organización; 1.567 pruebas automatizadas | Python, FastAPI, SQLAlchemy async, PostgreSQL + PgBouncer, Redis, React 19 + TypeScript, Podman, Nginx, S3 (SeaweedFS) |
-| **Credits Manager** *(privado)* | Sistema de gestión de créditos y contabilidad (cartera, pagos, conciliación, facturación, auditoría) con notificaciones en tiempo real, colas y respaldos; CI/CD con 1.789 pruebas y despliegue automático | PHP 8.4, Laravel 13 (Horizon, Reverb, Sanctum), MySQL 8.4, Redis, React 19 + TypeScript, GitHub Actions, Podman |
-| [aqua](https://github.com/Innoval-Tech-SAS/aqua) | Framework web con inyección de dependencias, rutas tipadas y módulos | Python 3.12, Starlette, Pydantic, SQLAlchemy async |
-| [taller-system](https://github.com/Innoval-Tech-SAS/taller-system) | Monorepo de microservicios por eventos para venta de repuestos | APIs, OpenAPI, Docker, agentes de IA |
-| [BOM](https://github.com/Innoval-Tech-SAS/BOM) | Aplicación web con autenticación JWT y migraciones | Flask, SQLAlchemy, Alembic |
+| [Pybox](https://github.com/lyrionlannister/pybox-monolith) | Plataforma SaaS multi-tenant de cartera y cobranza: créditos, deudores, campañas por email/SMS/WhatsApp/IVR, pagos (Mercado Pago, Bold) y facturación, con MFA y aislamiento por organización; 1.567 pruebas automatizadas | Python, FastAPI, SQLAlchemy async, PostgreSQL + PgBouncer, Redis, React 19 + TypeScript, Podman, Nginx, S3 (SeaweedFS) |
+| [Credits Manager](https://github.com/lyrionlannister/credits-manager) | Sistema de gestión de créditos y contabilidad (cartera, pagos, conciliación, facturación, auditoría) con notificaciones en tiempo real, colas y respaldos; CI/CD con 1.789 pruebas y despliegue automático | PHP 8.4, Laravel 13 (Horizon, Reverb, Sanctum), MySQL 8.4, Redis, React 19 + TypeScript, GitHub Actions, Podman |
+| [aqua](https://github.com/lyrionlannister/aqua) | Framework web con inyección de dependencias, rutas tipadas y módulos | Python 3.12, Starlette, Pydantic, SQLAlchemy async |
+| [taller-system](https://github.com/lyrionlannister/taller-system) | Monorepo de microservicios por eventos para venta de repuestos | APIs, OpenAPI, Docker, agentes de IA |
+| [BOM](https://github.com/lyrionlannister/BOM) | Aplicación web con autenticación JWT y migraciones | Flask, SQLAlchemy, Alembic |
 
 ## Stack
 
