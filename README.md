@@ -43,4 +43,4 @@ Construyo aplicaciones web de punta a punta con **C#, Python y TypeScript**: API
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/luis-a-guzman-h-6973a2271) · [Correo](mailto:luisguzman_12@hotmail.com)
+[LinkedIn](https://www.linkedin.com/in/lyrionlannister) · [Correo](mailto:luisguzman_12@hotmail.com)
