@@ -18,6 +18,9 @@ Construyo aplicaciones web de punta a punta con **C#, Python y TypeScript**: API
 | [aqua](https://github.com/lyrionlannister/aqua) | Framework web con inyección de dependencias, rutas tipadas y módulos | Python 3.12, Starlette, Pydantic, SQLAlchemy async |
 | [taller-system](https://github.com/lyrionlannister/taller-system) | Monorepo de microservicios por eventos para venta de repuestos | APIs, OpenAPI, Docker, agentes de IA |
 | [BOM](https://github.com/lyrionlannister/BOM) | Aplicación web con autenticación JWT y migraciones | Flask, SQLAlchemy, Alembic |
+| [live-event-bridge](https://github.com/lyrionlannister/live-event-bridge) | Puente de eventos en vivo de TikTok hacia juegos de Roblox: cola en Redis, API y SDK en Luau, con arquitectura hexagonal (puertos y adaptadores) | Python, Luau, Redis, Docker |
+| [SmartCol-SAS](https://github.com/lyrionlannister/SmartCol-SAS) | Sitio web corporativo con catálogo de productos, filtros, carrito y formularios de contacto y PQR | Vite, NextUI, TypeScript |
+| [puntualmente_sas](https://github.com/lyrionlannister/puntualmente_sas) | Sitio web corporativo modular con secciones de servicios, carruseles, formularios y formulario de pago | React, Vite, TypeScript |
 
 ## Stack
 
